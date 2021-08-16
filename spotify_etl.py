@@ -59,7 +59,7 @@ def store_data(song_df):
 
 def run_spotify_etl():
 
-    TOKEN = 'BQAA_cTBvCM3bP2IhVlcUKClbEvqrCBVMNYL-B7CD0x5ByImfS0t2y2Mn2D1mynEA4YXE4a5BYt5-J7XiEO4z7v6Gi__BMHhX7rvCLkpUnQ3l9MD2LsSYRGyeiiwjsohSBrha9OSBf1W1h-8AMzZKB3QrhmZlMobCjR5'
+    TOKEN = ''
 
     headers = {
             "Accept" : "application/json",
